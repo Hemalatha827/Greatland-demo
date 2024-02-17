@@ -1,0 +1,39 @@
+ {
+    "SERVER": {
+        "ZS_SERVER": "http://35.208.51.208:4080",
+        "ZS_AUTH": "YWRtaW46YWRtaW4xIQ==",
+        "ZS_PROPERTIES_INDEX": "greatland-jomar",
+        "ZS_QUICK_REPLIES_INDEX": "greatland-jomar-qr"
+
+    },
+    "BOTAMATION_CUF_DATA_PROCESSING": {
+        "SEND_FLOW": "send_flow",
+        "SET_CUF": "set_field_value",
+        "REMOVE_CUF": "unset_field_value",
+        "ADD_TAG": "add_tag",
+        "REMOVE_TAG": "remove_tag"
+    },
+    "SEARCH": {
+        "MAX_PAGE_SIZE": 9,
+        "CURRENCY_SYMBOL": "₱",
+        "CURRENCY_LOCAL_DENOMINATION": "en-PH"
+    },
+    "FLOW": {
+        "QUICK_SEARCH": {
+            "TEXT": "🕵️Search Again",
+            "FLOW_ID": "1686467739264"
+        },
+        "QUICK_REPLIES": {
+            "FLOW_ID": "1689266623641"
+        },
+        "NEXT_PAGE_CARDS": {
+            "TEXT": "More Packages▶️",
+            "FLOW_ID": "1688916910534",
+            "IMAGE": "https://static.wixstatic.com/media/772baf_867f46c8bb1d412f9e6ded8177185d24~mv2.jpg"
+        },
+        "MORE_GAL_CARDS": {
+            "IMAGE": "https://i.ibb.co/VCWVbsG/photo-1639763832833-242273ded085-q-80-w-1000-auto-format-fit-crop-ixlib-rb-4-0.jpg"
+          }
+    }
+}
+
